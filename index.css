@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    /* border: 1px solid black; */
+    height: 70px;
+    width: 100%;
+}
+.body2{
+    /* border: 1px solid red; */
+    height: 70px;
+    width: 95%;
+    margin: auto;
+
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+span > a{
+    justify-content: space-around;
+}
+
+button{
+    border-radius: 10px;
+    width: 120px;
+    height: 50px;
+    color: white;
+    background-color: red;
+}
+
+.big{
+    /* border: 1px solid red; */
+    width: 38%;
+    height: 410px;
+    margin: auto;
+    /* margin-top: 70px; */
+}
+.big h1{
+    font-size: 70px;
+    padding: 20px;
+}
+.big p{
+    font-size: 27px;
+    padding: 20px;
+    margin-left: 39px;
+
+}.sub-head{
+    margin-left: 39px;
+}
+
+.toutch button{
+    margin-left: 230px;
+
+}
+
+.big3{
+    /* border: 1px solid black; */
+    height: 90dvh;
+    margin-top: 70px;
+}
+
+.small{
+    /* border: 1px solid green; */
+    height: 90dvh;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.child{
+    /* border: 1px solid black; */
+    height: 80dvh;
+    width: 50%;
+
+}
+
+.child1 h1{
+    margin-top: 70px;
+    font-size: 70px;
+}
+
+.child1 p{
+    font-size: 22px;
+}
+
+.big4{
+    /* border: 1px solid black; */
+    height: 500px;
+}
+
+.card{
+    /* border: 1px solid red; */
+    height: 450px;
+    width: 70%;
+    margin: auto;
+}
+
+.sub-section{
+    /* border: 1px solid; */
+    height: 60dvh;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    gap: 13px;
+    justify-content: space-between;
+}
+
+.sub-section1{
+    /* border: 1px solid; */
+    height: 60dvh;
+    width: 50%;
+}
+
+.sub-section2{
+    /* border: 1px solid; */
+    height: 60dvh;
+    width: 50%;
+}
+
+.sub-section h1{
+    font-size: 60px;
+}
+
+.sub-section p{
+    font-size: 20px;
+}
+
